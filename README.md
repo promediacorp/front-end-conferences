@@ -184,8 +184,8 @@ Tel Aviv, **Israel**
 San Francisco, California **USA**
 
 [**An Event Apart**](https://aneventapart.com)
-10-12, July, 2017
-Washington, DC **USA**
+10-12, July, 2017  
+Washington, DC **USA**  
 
 [**Fluent 2017**](http://conferences.oreilly.com/fluent/fl-ca)  
 20-22 June, 2017  
